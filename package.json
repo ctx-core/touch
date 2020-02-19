@@ -1,6 +1,6 @@
 {
 	"name": "@ctx-core/touch",
-	"version": "3.1.61",
+	"version": "3.1.62",
 	"description": "ctx-core touch",
 	"main": "dom.js",
 	"module": "dom.js",
@@ -29,7 +29,7 @@
 		"access": "public"
 	},
 	"dependencies": {
-		"@ctx-core/dom": "^5.11.14",
+		"@ctx-core/dom": "^5.11.15",
 		"@ctx-core/logger": "^3.1.12"
 	},
 	"devDependencies": {
