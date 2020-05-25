@@ -2,6 +2,7 @@
 	"name": "@ctx-core/touch",
 	"version": "3.1.95",
 	"description": "ctx-core touch",
+	"type": "module",
 	"main": "dom.js",
 	"module": "dom.js",
 	"types": "dom.ts",
