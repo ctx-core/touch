@@ -2,9 +2,9 @@
 	"name": "@ctx-core/touch",
 	"version": "3.1.111",
 	"description": "ctx-core touch",
-	"main": "dom.js",
-	"module": "dom.js",
-	"types": "dom.ts",
+	"main": "index.js",
+	"module": "index.js",
+	"types": "index.ts",
 	"scripts": {
 		"build": "npm run clean && npm run compile",
 		"clean": "rm -f tsconfig.tsbuildinfo",
