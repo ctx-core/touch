@@ -1,6 +1,6 @@
 {
 	"name": "@ctx-core/touch",
-	"version": "3.1.158",
+	"version": "3.1.159",
 	"description": "ctx-core touch",
 	"main": "./index.js",
 	"module": "./index.js",
@@ -29,7 +29,7 @@
 		"access": "public"
 	},
 	"dependencies": {
-		"@ctx-core/dom": "^6.0.27"
+		"@ctx-core/dom": "^6.0.28"
 	},
 	"devDependencies": {
 		"typescript": "^4.0.2"
