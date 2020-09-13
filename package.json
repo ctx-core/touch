@@ -2,6 +2,20 @@
 	"name": "@ctx-core/touch",
 	"version": "3.1.166",
 	"description": "ctx-core touch",
+	"keywords": [
+		"ctx-core",
+		"touch"
+	],
+	"homepage": "https://github.com/ctx-core/touch#readme",
+	"bugs": {
+		"url": "https://github.com/ctx-core/touch/issues"
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/ctx-core/touch/issues"
+	},
+	"license": "Apache-2.0",
+	"author": "Brian Takita",
 	"main": "./index.js",
 	"module": "./index.js",
 	"types": "./index.ts",
@@ -9,31 +23,17 @@
 		"build": "npm run clean && npm run compile",
 		"clean": "rm -f tsconfig.tsbuildinfo",
 		"compile": "tsc -b",
-		"prepublishOnly": "npm run compile",
-		"exec": "$@"
-	},
-	"repository": {
-		"type": "git",
-		"url": "https://github.com/ctx-core/touch/issues"
-	},
-	"keywords": [
-		"ctx-core",
-		"touch"
-	],
-	"author": "Brian Takita",
-	"license": "Apache-2.0",
-	"bugs": {
-		"url": "https://github.com/ctx-core/touch/issues"
-	},
-	"homepage": "https://github.com/ctx-core/touch#readme",
-	"publishConfig": {
-		"access": "public"
+		"exec": "$@",
+		"prepublishOnly": "npm run compile"
 	},
 	"dependencies": {
-		"@ctx-core/dom": "^6.0.34"
+		"@ctx-core/dom": "workspace:*"
 	},
 	"devDependencies": {
 		"typescript": "^4.0.2"
+	},
+	"publishConfig": {
+		"access": "public"
 	},
 	"gitHead": "cf8d582af57fc315c5b0485989514ec78882ed96"
 }
