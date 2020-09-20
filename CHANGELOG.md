@@ -1,5 +1,13 @@
 # @ctx-core/touch
 
+## 4.0.2
+
+### Patch Changes
+
+- fix: install issues: using explicit workspace: versioning
+- Updated dependencies [undefined]
+  - @ctx-core/dom@7.0.2
+
 ## 4.0.1
 
 ### Patch Changes
