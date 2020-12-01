@@ -1,5 +1,11 @@
 # @ctx-core/touch
 
+## 4.0.62
+
+### Patch Changes
+
+- @ctx-core/dom@7.1.14
+
 ## 4.0.61
 
 ### Patch Changes
