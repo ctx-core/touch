@@ -1,6 +1,6 @@
 {
 	"name": "@ctx-core/touch",
-	"version": "5.0.12",
+	"version": "5.0.13",
 	"description": "ctx-core touch",
 	"keywords": [
 		"ctx-core",
@@ -27,7 +27,7 @@
 		"prepublishOnly": "npm run compile"
 	},
 	"dependencies": {
-		"@ctx-core/dom": "workspace:^8.1.9"
+		"@ctx-core/dom": "workspace:^8.1.10"
 	},
 	"devDependencies": {
 		"typescript": "^4.1.3"
