@@ -1,5 +1,13 @@
 # @ctx-core/touch
 
+## 5.0.35
+
+### Patch Changes
+
+- fix: npm run compile: tsc -b .
+- Updated dependencies [undefined]
+  - @ctx-core/dom@8.2.13
+
 ## 5.0.34
 
 ### Patch Changes
