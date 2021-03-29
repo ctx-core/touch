@@ -1,6 +1,6 @@
 {
 	"name": "@ctx-core/touch",
-	"version": "5.0.35",
+	"version": "5.0.36",
 	"description": "ctx-core touch",
 	"keywords": [
 		"ctx-core",
@@ -27,12 +27,13 @@
 		"prepublishOnly": "npm run compile"
 	},
 	"dependencies": {
-		"@ctx-core/dom": "workspace:^8.2.13"
+		"@ctx-core/dom": "workspace:^8.2.14"
 	},
 	"devDependencies": {
 		"typescript": "^4.2.3"
 	},
 	"publishConfig": {
-		"access": "public"
+		"access": "public",
+		"cache": "~/.npm"
 	}
 }

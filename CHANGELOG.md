@@ -1,5 +1,13 @@
 # @ctx-core/touch
 
+## 5.0.36
+
+### Patch Changes
+
+- fix: npm publish: https://github.com/npm/cli/issues/2834
+- Updated dependencies [undefined]
+  - @ctx-core/dom@8.2.14
+
 ## 5.0.35
 
 ### Patch Changes
