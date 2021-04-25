@@ -1,5 +1,13 @@
 # @ctx-core/touch
 
+## 5.0.42
+
+### Patch Changes
+
+- update dependencies
+- Updated dependencies [undefined]
+  - @ctx-core/dom@8.2.27
+
 ## 5.0.41
 
 ### Patch Changes
