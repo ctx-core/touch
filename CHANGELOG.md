@@ -1,5 +1,16 @@
 # @ctx-core/touch
 
+## 5.1.0
+
+### Minor Changes
+
+- "noImplicitAny": true
+
+### Patch Changes
+
+- Updated dependencies [undefined]
+  - @ctx-core/dom@8.3.0
+
 ## 5.0.46
 
 ### Patch Changes

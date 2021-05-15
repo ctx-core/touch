@@ -1,10 +1,10 @@
 import { ontouchmove_enable } from './ontouchmove_enable'
 import { ontouchmove_disable } from './ontouchmove_disable'
-export function disable_touch_scrolling(ctx) {
-	let { scrolling__touch } = ctx
+export function disable_touch_scrolling(ctx: { touch_scrolling: boolean }) {
+	let { touch_scrolling } = ctx
 	if (
-		scrolling__touch == null
-		|| scrolling__touch
+		touch_scrolling == null
+		|| touch_scrolling
 	) {
 		document.removeEventListener('touchmove',
 			ontouchmove_enable)
@@ -12,4 +12,4 @@ export function disable_touch_scrolling(ctx) {
 			ontouchmove_disable)
 	}
 }
-export { disable_touch_scrolling as disable__scrolling__touch }
+export { disable_touch_scrolling as disable__touch_scrolling }
