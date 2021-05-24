@@ -1,5 +1,16 @@
 # @ctx-core/touch
 
+## 5.2.0
+
+### Minor Changes
+
+- dist,types directory: addressing typescript build issues
+
+### Patch Changes
+
+- Updated dependencies [undefined]
+  - @ctx-core/dom@8.4.0
+
 ## 5.1.3
 
 ### Patch Changes
