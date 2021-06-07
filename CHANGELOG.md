@@ -1,5 +1,13 @@
 # @ctx-core/touch
 
+## 6.0.2
+
+### Patch Changes
+
+- version bump: run build
+- Updated dependencies [undefined]
+  - @ctx-core/dom@9.0.10
+
 ## 6.0.1
 
 ### Patch Changes
