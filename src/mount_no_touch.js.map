@@ -1,0 +1,1 @@
+{"version":3,"file":"mount_no_touch.js","sourceRoot":"","sources":["../mount_no_touch.ts"],"names":[],"mappings":"AAAA,OAAO,EAAE,SAAS,EAAE,MAAM,eAAe,CAAA;AACzC,MAAM,UAAU,cAAc;IAC7B,mCAAmC;IACnC,IAAI,CAAC,CAAC,cAAc,IAAI,QAAQ,CAAC,eAAe,CAAC,EAAE;QAClD,SAAS,CAAC,QAAQ,CAAC,eAAe,EAAE,UAAU,CAAC,CAAA;KAC/C;AACF,CAAC"}
