@@ -1,5 +1,0 @@
-export function ontouchmove_disable(e) {
-    e.preventDefault();
-}
-export { ontouchmove_disable as ontouchmove__disable };
-//# sourceMappingURL=src/ontouchmove_disable.js.map
