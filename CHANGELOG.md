@@ -1,5 +1,13 @@
 # @ctx-core/touch
 
+## 7.0.6
+
+### Patch Changes
+
+- fix: deploying \*.js files
+- Updated dependencies [undefined]
+  - @ctx-core/dom@10.0.7
+
 ## 7.0.5
 
 ### Patch Changes
