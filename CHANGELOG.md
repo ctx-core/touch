@@ -1,5 +1,13 @@
 # @ctx-core/touch
 
+## 7.0.5
+
+### Patch Changes
+
+- "prepare": "npm run clean && npm run compile"
+- Updated dependencies [undefined]
+  - @ctx-core/dom@10.0.6
+
 ## 7.0.4
 
 ### Patch Changes
