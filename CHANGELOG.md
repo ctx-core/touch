@@ -1,5 +1,13 @@
 # @ctx-core/touch
 
+## 7.0.10
+
+### Patch Changes
+
+- update dependencies
+- Updated dependencies [undefined]
+  - @ctx-core/dom@10.0.14
+
 ## 7.0.9
 
 ### Patch Changes
