@@ -1,5 +1,13 @@
 # @ctx-core/touch
 
+## 7.0.15
+
+### Patch Changes
+
+- typescript: ^4.3.4 -> ^4.3.5
+- Updated dependencies [undefined]
+  - @ctx-core/dom@10.0.20
+
 ## 7.0.14
 
 ### Patch Changes
