@@ -1,5 +1,5 @@
-import { ontouchmove_enable } from './ontouchmove_enable'
-import { ontouchmove_disable } from './ontouchmove_disable'
+import { ontouchmove_enable } from './ontouchmove_enable.js'
+import { ontouchmove_disable } from './ontouchmove_disable.js'
 export function disable_touch_scrolling(ctx:{ touch_scrolling:boolean }) {
 	let { touch_scrolling } = ctx
 	if (
