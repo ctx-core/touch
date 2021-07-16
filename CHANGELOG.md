@@ -1,5 +1,13 @@
 # @ctx-core/touch
 
+## 8.0.5
+
+### Patch Changes
+
+- fix: index.cjs: module.exports = require('./index.js')
+- Updated dependencies [undefined]
+  - @ctx-core/dom@11.0.8
+
 ## 8.0.4
 
 ### Patch Changes
