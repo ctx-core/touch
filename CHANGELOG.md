@@ -1,5 +1,13 @@
 # @ctx-core/touch
 
+## 8.0.7
+
+### Patch Changes
+
+- fix: cjs: load as a Promise
+- Updated dependencies [undefined]
+  - @ctx-core/dom@11.0.10
+
 ## 8.0.6
 
 ### Patch Changes
