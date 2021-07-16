@@ -1,5 +1,13 @@
 # @ctx-core/touch
 
+## 8.0.3
+
+### Patch Changes
+
+- support cjs & esm: + "exports"
+- Updated dependencies [undefined]
+  - @ctx-core/dom@11.0.4
+
 ## 8.0.2
 
 ### Patch Changes
