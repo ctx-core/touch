@@ -1,5 +1,13 @@
 # @ctx-core/touch
 
+## 8.0.6
+
+### Patch Changes
+
+- "main": "./dist/index.cjs"
+- Updated dependencies [undefined]
+  - @ctx-core/dom@11.0.9
+
 ## 8.0.5
 
 ### Patch Changes
