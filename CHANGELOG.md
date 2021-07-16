@@ -1,5 +1,13 @@
 # @ctx-core/touch
 
+## 8.0.4
+
+### Patch Changes
+
+- back to esm module with cjs using esm npm package to load library
+- Updated dependencies [undefined]
+  - @ctx-core/dom@11.0.7
+
 ## 8.0.3
 
 ### Patch Changes
