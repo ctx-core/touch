@@ -1,5 +1,11 @@
 # @ctx-core/touch
 
+## 8.0.18
+
+### Patch Changes
+
+- update dependencies
+
 ## 8.0.17
 
 ### Patch Changes
