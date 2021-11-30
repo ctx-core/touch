@@ -1,5 +1,23 @@
 # @ctx-core/touch
 
+## 8.0.25
+
+### Patch Changes
+
+- @swc/cli: ^0.1.51 -> ^0.1.52
+- @swc/core: ^1.2.111 -> ^1.2.113
+- Updated dependencies
+- Updated dependencies
+  - @ctx-core/dom@11.0.34
+
+## 8.0.24
+
+### Patch Changes
+
+- @swc/core: ^1.2.110 -> ^1.2.111
+- Updated dependencies
+  - @ctx-core/dom@11.0.33
+
 ## 8.0.23
 
 ### Patch Changes
