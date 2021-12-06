@@ -1,5 +1,13 @@
 # @ctx-core/touch
 
+## 8.0.29
+
+### Patch Changes
+
+- package.json: - "main": explicitly not support cjs
+- Updated dependencies
+  - @ctx-core/dom@11.0.39
+
 ## 8.0.28
 
 ### Patch Changes
