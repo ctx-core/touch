@@ -1,6 +1,6 @@
 {
 	"name": "@ctx-core/touch",
-	"version": "8.0.31",
+	"version": "8.0.32",
 	"description": "ctx-core touch",
 	"keywords": [
 		"ctx-core",
@@ -12,15 +12,15 @@
 	},
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/ctx-core/touch/issues"
+		"url": "https://github.com/ctx-core/touch.git"
 	},
 	"license": "Apache-2.0",
 	"author": "Brian Takita",
 	"type": "module",
 	"exports": {
 		".": {
-			"types": "./src/index.ts",
-			"import": "./dist/index.js"
+			"import": "./dist/index.js",
+			"types": "./src/index.ts"
 		},
 		"./package.json": "./package.json"
 	},
@@ -32,7 +32,7 @@
 		"prepublishOnly": "npm run clean && npm run build"
 	},
 	"dependencies": {
-		"@ctx-core/dom": "workspace:^11.0.41"
+		"@ctx-core/dom": "workspace:^11.0.42"
 	},
 	"devDependencies": {
 		"@swc/cli": "^0.1.55",

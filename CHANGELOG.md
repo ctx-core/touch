@@ -1,5 +1,13 @@
 # @ctx-core/touch
 
+## 8.0.32
+
+### Patch Changes
+
+- fix: package.json: exports
+- Updated dependencies
+  - @ctx-core/dom@11.0.42
+
 ## 8.0.31
 
 ### Patch Changes
