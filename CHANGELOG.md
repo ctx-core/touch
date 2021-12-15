@@ -1,5 +1,13 @@
 # @ctx-core/touch
 
+## 8.0.34
+
+### Patch Changes
+
+- \*.d.ts export
+- Updated dependencies
+  - @ctx-core/dom@11.0.44
+
 ## 8.0.33
 
 ### Patch Changes
