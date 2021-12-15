@@ -1,5 +1,13 @@
 # @ctx-core/touch
 
+## 8.0.33
+
+### Patch Changes
+
+- fix: tsconfig.json: "rootDir": "."
+- Updated dependencies
+  - @ctx-core/dom@11.0.43
+
 ## 8.0.32
 
 ### Patch Changes
