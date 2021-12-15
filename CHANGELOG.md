@@ -1,5 +1,13 @@
 # @ctx-core/touch
 
+## 8.0.31
+
+### Patch Changes
+
+- package.json: svelte: ./dist/index.js
+- Updated dependencies
+  - @ctx-core/dom@11.0.41
+
 ## 8.0.30
 
 ### Patch Changes
