@@ -1,5 +1,13 @@
 # @ctx-core/touch
 
+## 8.0.37
+
+### Patch Changes
+
+- tsconfig.json: "target": "ES2021"
+- Updated dependencies
+  - @ctx-core/dom@11.0.47
+
 ## 8.0.36
 
 ### Patch Changes
