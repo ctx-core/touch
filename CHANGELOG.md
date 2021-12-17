@@ -1,5 +1,13 @@
 # @ctx-core/touch
 
+## 8.0.38
+
+### Patch Changes
+
+- fix: error TS6059: \* is not under 'rootDir': package.json: types: ./dist/index.d.ts
+- Updated dependencies
+  - @ctx-core/dom@11.0.48
+
 ## 8.0.37
 
 ### Patch Changes
