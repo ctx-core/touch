@@ -1,5 +1,13 @@
 # @ctx-core/touch
 
+## 8.0.36
+
+### Patch Changes
+
+- package.json: "types": "./src/index.ts": better editing experience
+- Updated dependencies
+  - @ctx-core/dom@11.0.46
+
 ## 8.0.35
 
 ### Patch Changes
