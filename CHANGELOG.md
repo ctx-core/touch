@@ -1,5 +1,13 @@
 # @ctx-core/touch
 
+## 8.0.39
+
+### Patch Changes
+
+- .js + .d.ts instead of .ts
+- Updated dependencies
+  - @ctx-core/dom@11.1.2
+
 ## 8.0.38
 
 ### Patch Changes
