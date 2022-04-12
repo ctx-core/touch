@@ -1,5 +1,13 @@
 # @ctx-core/touch
 
+## 8.0.46
+
+### Patch Changes
+
+- fix: @ctx-core/\* dependencies
+- Updated dependencies
+  - @ctx-core/dom@11.1.11
+
 ## 8.0.45
 
 ### Patch Changes
