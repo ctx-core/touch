@@ -1,5 +1,13 @@
 # @ctx-core/touch
 
+## 8.0.48
+
+### Patch Changes
+
+- @ctx-core/function: 20.7.1
+- Updated dependencies
+  - @ctx-core/dom@11.1.14
+
 ## 8.0.47
 
 ### Patch Changes
