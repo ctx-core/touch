@@ -1,5 +1,14 @@
 # @ctx-core/touch
 
+## 8.0.73
+
+### Patch Changes
+
+- rimraf: ^4.0.1 -> ^4.0.4
+- Updated dependencies
+- Updated dependencies
+  - @ctx-core/dom@11.2.20
+
 ## 8.0.72
 
 ### Patch Changes
