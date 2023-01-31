@@ -1,5 +1,13 @@
 # @ctx-core/touch
 
+## 8.0.78
+
+### Patch Changes
+
+- tsconfig.json: - importsNotUsedAsValues
+- Updated dependencies
+  - @ctx-core/dom@11.2.25
+
 ## 8.0.77
 
 ### Patch Changes
