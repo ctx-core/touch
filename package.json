@@ -1,6 +1,6 @@
 {
 	"name": "@ctx-core/touch",
-	"version": "8.0.85",
+	"version": "8.0.86",
 	"description": "ctx-core touch",
 	"keywords": [
 		"ctx-core",
@@ -33,7 +33,7 @@
 		"prepublishOnly": "npm run clean && npm run build"
 	},
 	"dependencies": {
-		"@ctx-core/dom": "^11.2.31"
+		"@ctx-core/dom": "^11.2.32"
 	},
 	"devDependencies": {
 		"@swc/cli": "^0.1.61",
