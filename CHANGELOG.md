@@ -1,5 +1,17 @@
 # @ctx-core/touch
 
+## 8.1.0
+
+### Minor Changes
+
+- - disable\_\_ontouchmove: aliased by ontouchmove_disable
+- - touch_scrolling\_\_disable: aliased by disable_touch_scrolling
+- - touch_scrolling\_\_params_T
+- - enable\_\_ontouchmove: aliased by ontouchmove_enable
+- - no_touch\_\_mount: aliased by mount_no_touch
+- extract _.js & _.d.ts into directories
+- - touch_scrolling\_\_enable: aliased by enable_touch_scrolling
+
 ## 8.0.96
 
 ### Patch Changes

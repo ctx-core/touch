@@ -1,5 +1,0 @@
-export * from './disable_touch_scrolling.js'
-export * from './enable_touch_scrolling.js'
-export * from './mount_no_touch.js'
-export * from './ontouchmove_disable.js'
-export * from './ontouchmove_enable.js'
