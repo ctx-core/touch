@@ -1,13 +1,13 @@
-import { disable__ontouchmove } from '../disable__ontouchmove/index.js'
-import { enable__ontouchmove } from '../enable__ontouchmove/index.js'
+import { ontouchmove__disable } from '../ontouchmove__disable/index.js'
+import { ontouchmove__enable } from '../ontouchmove__enable/index.js'
 /**
  * @param params{import('../_types').touch_scrolling__params_T}
  */
 export function touch_scrolling__enable(params) {
 	let { touch_scrolling } = params
 	if (!touch_scrolling) {
-		document.removeEventListener('touchmove', disable__ontouchmove)
-		document.addEventListener('touchmove', enable__ontouchmove)
+		document.removeEventListener('touchmove', ontouchmove__disable)
+		document.addEventListener('touchmove', ontouchmove__enable)
 	}
 }
 export {

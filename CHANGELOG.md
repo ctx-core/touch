@@ -1,5 +1,12 @@
 # @ctx-core/touch
 
+## 8.2.0
+
+### Minor Changes
+
+- ontouchmove**disable: aliased by disable**ontouchmove
+- ontouchmove**enable: aliased by enable**ontouchmove
+
 ## 8.1.16
 
 ### Patch Changes
