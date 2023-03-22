@@ -1,5 +1,11 @@
 # @ctx-core/touch
 
+## 8.2.37
+
+### Patch Changes
+
+- @ctx-core/dom: ^14.0.3 -> ^14.0.4
+
 ## 8.2.36
 
 ### Patch Changes
