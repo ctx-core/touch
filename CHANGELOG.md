@@ -1,5 +1,13 @@
 # @ctx-core/touch
 
+## 8.2.72
+
+### Patch Changes
+
+- @ctx-core/monorepo: ^20.3.3 -> ^20.3.4
+- Updated dependencies
+  - @ctx-core/dom@14.1.31
+
 ## 8.2.71
 
 ### Patch Changes
