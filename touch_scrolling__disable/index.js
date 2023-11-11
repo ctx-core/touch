@@ -1,5 +1,5 @@
-import { ontouchmove__enable } from '../ontouchmove__enable/index.js'
-import { ontouchmove__disable } from '../ontouchmove__disable/index.js'
+import { ontouchmove__disable } from '../ontouchmove__disable'
+import { ontouchmove__enable } from '../ontouchmove__enable'
 /**
  * @param params{import('../_types').touch_scrolling__params_T}
  */

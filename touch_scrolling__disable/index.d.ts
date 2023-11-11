@@ -1,4 +1,4 @@
-import type { touch_scrolling__params_T } from '../_types'
+import type { touch_scrolling__params_T } from '../_types/index.js'
 export declare function touch_scrolling__disable(
 	params:touch_scrolling__params_T
 ):void

@@ -1,3 +1,4 @@
+export * from './_types/index.js'
 export * from './ontouchmove__disable/index.js'
 export * from './ontouchmove__enable/index.js'
 export * from './no_touch__mount/index.js'

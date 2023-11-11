@@ -1,5 +1,5 @@
 /**
- * @param e{TouchEvent}
+ * @param {TouchEvent}e
  */
 export function ontouchmove__disable(e) {
 	e.preventDefault()

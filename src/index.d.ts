@@ -1,6 +1,0 @@
-export * from './_types'
-export * from './ontouchmove__disable'
-export * from './ontouchmove__enable'
-export * from './no_touch__mount'
-export * from './touch_scrolling__disable'
-export * from './touch_scrolling__enable'
