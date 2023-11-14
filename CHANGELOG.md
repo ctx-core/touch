@@ -1,5 +1,13 @@
 # @ctx-core/touch
 
+## 8.3.2
+
+### Patch Changes
+
+- fix: missing tsconfig.json
+- Updated dependencies
+  - @ctx-core/dom@15.1.2
+
 ## 8.3.1
 
 ### Patch Changes
