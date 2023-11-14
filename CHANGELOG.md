@@ -1,5 +1,13 @@
 # @ctx-core/touch
 
+## 8.3.3
+
+### Patch Changes
+
+- package.json: files: + \*.js
+- Updated dependencies
+  - @ctx-core/dom@15.1.3
+
 ## 8.3.2
 
 ### Patch Changes
