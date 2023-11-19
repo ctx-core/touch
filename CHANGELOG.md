@@ -1,5 +1,13 @@
 # @ctx-core/touch
 
+## 8.3.18
+
+### Patch Changes
+
+- tsx: ^4.1.3 -> ^4.1.4
+- Updated dependencies
+  - @ctx-core/dom@15.1.18
+
 ## 8.3.17
 
 ### Patch Changes
