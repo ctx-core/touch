@@ -1,6 +1,6 @@
 {
 	"name": "@ctx-core/touch",
-	"version": "8.3.72",
+	"version": "8.3.73",
 	"description": "ctx-core touch",
 	"keywords": [
 		"ctx-core",
@@ -44,7 +44,7 @@
 		"test:unit:coverage": "c8 pnpm test:unit"
 	},
 	"dependencies": {
-		"@ctx-core/dom": "^15.2.2"
+		"@ctx-core/dom": "^15.2.3"
 	},
 	"devDependencies": {
 		"c8": "^8.0.1",
