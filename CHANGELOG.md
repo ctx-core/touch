@@ -1,5 +1,11 @@
 # @ctx-core/touch
 
+## 8.3.129
+
+### Patch Changes
+
+- tsx: ^4.7.0 -> ^4.7.1
+
 ## 8.3.128
 
 ### Patch Changes
