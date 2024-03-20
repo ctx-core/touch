@@ -1,6 +1,6 @@
 {
 	"name": "@ctx-core/touch",
-	"version": "8.3.129",
+	"version": "8.3.130",
 	"description": "ctx-core touch",
 	"keywords": [
 		"ctx-core",
@@ -15,7 +15,11 @@
 		"url": "https://github.com/ctx-core/touch.git"
 	},
 	"license": "Apache-2.0",
-	"author": "Brian Takita",
+	"author": {
+		"name": "Brian Takita",
+		"url": "https://briantakita.me",
+		"email": "info+ctx-core-touch@briantakita.me"
+	},
 	"type": "module",
 	"files": [
 		"*.d.ts",
